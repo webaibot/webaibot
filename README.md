@@ -68,9 +68,9 @@ infra       → Docker + docker-compose
 
 | | |
 |---|---|
-| **Platform** | [webai.com](https://webai.com) |
+| **Platform** | [webai.bot](https://webai.bot/) |
 | **Engine** | [github.com/webaibot/cortex](https://github.com/webaibot/cortex) |
-| **X** | [@webaibot](https://x.com) |
+| **X** | [@botwebai](https://x.com/botwebai) |
 
 ---
 
